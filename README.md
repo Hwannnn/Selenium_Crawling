@@ -6,3 +6,4 @@ Using selenium for crawling naver cafe board
 
 - a simple crawling code
 - using beatifulsoup4, selenium
+- Create an excel file containing crawling results
